@@ -19,3 +19,4 @@ if you want a bot which is online anytime you want, Run the C# console on VPS !
 If you enjoy follow my instagram page For more Updates!!
 
 instagram : @Momalekiiii
+Also on twitter : @Momalekiii
